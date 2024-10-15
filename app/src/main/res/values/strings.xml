@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car database android app</string>
+    <string name="add_car">Add a car</string>
+    <string name="car_make">Make</string>
+    <string name="car_name">Name</string>
+    <string name="car_make2">Make</string>
+    <string name="car_manufacturer">Manufacturer</string>
+</resources>
